@@ -21,7 +21,7 @@
         <h1 class="text-center">My job is done with jenkins</h1>
 
         <h2 class="text-center">
-            Welcome to T John on behalf of DevOps Academy
+            Welcome to T John on behalf of DevOps Academys
         </h2>
 
     </div>
